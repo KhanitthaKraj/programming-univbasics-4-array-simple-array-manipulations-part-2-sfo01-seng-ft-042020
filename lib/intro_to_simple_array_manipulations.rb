@@ -8,7 +8,7 @@ def using_insert(arr, element)
   arr.insert(4, element)
 end
 
-# removing dyblicate values in the array
+# removing dublicate values in the array
 def using_uniq(arr)
   arr.uniq
 end
