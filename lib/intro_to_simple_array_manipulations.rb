@@ -1,7 +1,9 @@
+# adding the contents of the second array to the first
 def using_concat(arr1, arr2)
   arr1.concat(arr2)
 end
 
+# adding a new element to 4th index of the array
 def using_insert(arr, element)
   arr.insert(4, element)
 end
