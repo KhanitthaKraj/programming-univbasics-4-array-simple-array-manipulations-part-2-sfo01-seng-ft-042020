@@ -23,7 +23,7 @@ def using_delete(arr, str)
   arr.delete(str)
 end
 
-# removing element at the specific index
+# removing an element at the specific index
 def using_delete_at(arr, int)
   arr.delete_at(int)
 end
