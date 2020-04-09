@@ -8,6 +8,7 @@ def using_insert(arr, element)
   arr.insert(4, element)
 end
 
+# removing 
 def using_uniq(arr)
   arr.uniq
 end
